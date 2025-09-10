@@ -1,0 +1,12 @@
+streamlit==1.28.0
+tensorflow==2.12.0
+torch==2.0.1
+transformers==4.30.2
+librosa==0.10.0
+scikit-learn==1.2.2
+pandas==2.0.2
+numpy==1.24.3
+joblib==1.2.0
+keras==2.12.0
+soundfile==0.12.1
+protobuf==3.20.3
