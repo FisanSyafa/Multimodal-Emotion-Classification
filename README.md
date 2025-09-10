@@ -26,10 +26,9 @@ Emotion analysis through the integration of **text**, **audio**, and **image** d
 Create a virtual environment (optional but recommended)
 
 2. bash
-3. 
-\python -m venv venv
+   \python -m venv venv
 
-Activate the environment:
+   Activate the environment:
 
 
 Windows (PowerShell):
