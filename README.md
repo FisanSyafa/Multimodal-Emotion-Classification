@@ -47,6 +47,7 @@ Download model and scaler files
 
 6. Structure
 ├── app.py
+
 ├── models/
 │   ├── best_model_fold_5_savedmodel/
 │   ├── scaler_vad.pkl
@@ -59,5 +60,5 @@ Download model and scaler files
 └── README.md
 Run the application
 
-7. bash
+8. bash
 streamlit run app.py
